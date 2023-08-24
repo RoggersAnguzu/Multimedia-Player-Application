@@ -12,9 +12,8 @@ Windows operating system
 Installation
 Clone or download the repository.
 
-bash
+# bash
 Copy code
-git clone https://github.com/RoggersAnguzu/multimedia-player.git
 Open the solution in Visual Studio.
 
 Build the solution to restore any missing packages.
