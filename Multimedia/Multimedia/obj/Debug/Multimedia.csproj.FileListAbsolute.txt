@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Multimedia\Multimedia\bin\Debug\Multimedia.exe.config
+C:\Users\Admin\source\repos\Multimedia\Multimedia\bin\Debug\Multimedia.exe
+C:\Users\Admin\source\repos\Multimedia\Multimedia\bin\Debug\Multimedia.pdb
+C:\Users\Admin\source\repos\Multimedia\Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Multimedia\Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.Form1.resources
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.Properties.Resources.resources
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.exe
+C:\Users\Admin\source\repos\Multimedia\Multimedia\obj\Debug\Multimedia.pdb
